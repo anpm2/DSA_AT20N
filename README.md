@@ -6,6 +6,7 @@
 * Giảng viên: **ThS.Sử Nhật Hạ**
 * Sinh viên: **Phạm Minh An**
 * MSSV: **AT20N0102**
+* Lớp: **AT20N**
   
 **Cài đặt thuật toán đầy đủ:**
 * Đề bài:
