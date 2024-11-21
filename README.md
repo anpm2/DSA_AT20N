@@ -14,7 +14,7 @@
 * Kết quả:
 ![](https://github.com/anpm2/DSA_AT20N/blob/2ae2890a6983e9aa49e50560bc91164eebf9f49c/src/result.png)
 
-* [source](https://github.com/anpm2/DSA_AT20N/blob/2ae2890a6983e9aa49e50560bc91164eebf9f49c/src/red-black-tree.cpp)
+* [red-black-tree.cpp](https://github.com/anpm2/DSA_AT20N/blob/2ae2890a6983e9aa49e50560bc91164eebf9f49c/src/red-black-tree.cpp)
 ```cpp
 // AT20N0102_PhamMinhAn_BTL_CTGL&GT
 
